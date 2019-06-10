@@ -33,6 +33,23 @@
 			"group" : "HK",
 			"enable" : true,
 			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "香港HK",
+			"id" : "33BB1BBFAAA71FA65DEA57DE64C663B7",
+			"server" : "hkt11.bilibilivpn.com",
+			"server_port" : 8434,
+			"server_udp_port" : 0,
+			"password" : "147369",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "6aaZ5rivSEs",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
 		}
 	],
 	"index" : 1,

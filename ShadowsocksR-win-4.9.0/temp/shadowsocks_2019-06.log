@@ -30074,3 +30074,2023 @@
 [2019-06-10 13:35:04] [Debug] DNS query fail: nltc300.corp.tcc.inet
 [2019-06-10 13:35:04] [Info] Connect nltc300.corp.tcc.inet:8530
 [2019-06-10 13:35:04] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:36:08] ShadowsocksR started on port 1080
+[2019-06-10 13:36:09] [Info] Connect 149.154.175.50:443
+[2019-06-10 13:36:09] [Info] Connect 149.154.175.50:80
+[2019-06-10 13:36:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 13:36:10] [Info] Disconnect 149.154.175.50:80
+[2019-06-10 13:36:10] [Info] Connect cuscochromeextension-pa.googleapis.com:443
+[2019-06-10 13:36:11] [Info] Disconnect 149.154.175.50:443
+[2019-06-10 13:36:12] [Info] Connect www.google.com:443
+[2019-06-10 13:36:12] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:36:12] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:36:12] [Info] Connect apis.google.com:443
+[2019-06-10 13:36:12] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:36:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:36:13] [Info] Connect adservice.google.com:443
+[2019-06-10 13:36:13] [Info] Connect api.webtest.net:443
+[2019-06-10 13:36:13] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:36:14] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:36:15] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:36:16] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:36:16] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:36:16] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:36:16] [Info] Connect 91.108.56.101:80
+[2019-06-10 13:36:16] [Info] Disconnect 91.108.56.140:443
+[2019-06-10 13:36:16] [Info] Connect 149.154.175.50:443
+[2019-06-10 13:36:16] [Info] Disconnect 91.108.56.101:80
+[2019-06-10 13:36:16] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:36:16] [Info] Connect 149.154.175.50:80
+[2019-06-10 13:36:17] [Info] Disconnect 149.154.175.50:80
+[2019-06-10 13:36:18] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:36:19] [Info] Connect github.githubassets.com:443
+[2019-06-10 13:36:19] [Info] Connect github.com:443
+[2019-06-10 13:36:19] [Info] Connect github.com:443
+[2019-06-10 13:36:19] [Info] Connect avatars1.githubusercontent.com:443
+[2019-06-10 13:36:19] [Info] Connect camo.githubusercontent.com:443
+[2019-06-10 13:36:19] [Info] Connect clients4.google.com:443
+[2019-06-10 13:36:20] [Info] Connect github.githubassets.com:443
+[2019-06-10 13:36:20] [Info] Connect avatars2.githubusercontent.com:443
+[2019-06-10 13:36:21] [Info] Connect clients1.google.com:443
+[2019-06-10 13:36:21] [Info] Connect live.github.com:443
+[2019-06-10 13:36:21] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:36:21] [Info] Connect api.github.com:443
+[2019-06-10 13:36:21] [Info] Connect collector.githubapp.com:443
+[2019-06-10 13:36:22] [Info] Connect api.github.com:443
+[2019-06-10 13:36:22] [Info] Disconnect apis.google.com:443
+[2019-06-10 13:36:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:36:22] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:36:24] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-10 13:36:24] [Info] Disconnect www.gstatic.com:443
+[2019-06-10 13:36:24] [Info] Disconnect ssl.gstatic.com:443
+[2019-06-10 13:36:24] [Info] Connect www.googletagmanager.com:443
+[2019-06-10 13:36:24] [Info] Connect ssr.tools:443
+[2019-06-10 13:36:27] [Info] Connect secure.gravatar.com:443
+[2019-06-10 13:36:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:36:32] [Info] Disconnect 149.154.175.50:443
+[2019-06-10 13:36:35] [Info] Disconnect github.com:443
+[2019-06-10 13:36:38] [Info] Disconnect api.github.com:443
+[2019-06-10 13:36:42] [Info] Direct connect control.onethingpcs.com:443
+[2019-06-10 13:36:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:36:46] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:36:50] [Info] Connect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:36:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:36:58] [Info] Connect api.segment.io:443
+[2019-06-10 13:36:58] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:36:59] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:36:59] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:36:59] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:37:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:03] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:03] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:37:03] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:03] [Info] Connect clients1.google.com:443
+[2019-06-10 13:37:04] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:04] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:04] [Info] Connect stats.g.doubleclick.net:443
+[2019-06-10 13:37:04] [Info] Connect www.google.com:443
+[2019-06-10 13:37:05] [Info] Connect www.google.com.hk:443
+[2019-06-10 13:37:08] [Info] Connect m.stripe.com:443
+[2019-06-10 13:37:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:37:12] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:37:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:12] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:37:12] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:37:12] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:37:20] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:37:20] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:37:20] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:20] [Info] Connect 91.108.56.101:80
+[2019-06-10 13:37:21] [Info] Disconnect 91.108.56.101:443
+[2019-06-10 13:37:21] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:37:21] [Info] Disconnect 91.108.56.101:80
+[2019-06-10 13:37:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:22] [Info] Disconnect api.github.com:443
+[2019-06-10 13:37:23] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:23] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:24] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:37:24] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:37:26] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:37:26] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:37:26] [Info] Disconnect 91.108.56.101:443
+[2019-06-10 13:37:27] [Info] Connect clients1.google.com:443
+[2019-06-10 13:37:27] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:37:28] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:28] [Info] Disconnect collector.githubapp.com:443
+[2019-06-10 13:37:31] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:37:31] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:37:31] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:31] [Info] Connect 91.108.56.101:80
+[2019-06-10 13:37:31] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:37:31] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:37:31] [Info] Disconnect 91.108.56.140:443
+[2019-06-10 13:37:31] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:37:31] [Info] Disconnect 91.108.56.101:80
+[2019-06-10 13:37:31] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:37:32] [Info] Connect www.facebook.com:443
+[2019-06-10 13:37:32] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:37:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:33] [Info] Connect www.gravatar.com:443
+[2019-06-10 13:37:33] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:37:33] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:33] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:37:33] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:37:33] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:33] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:33] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:34] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:34] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:37:34] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:34] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:37:35] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:36] [Info] Disconnect 91.108.56.140:443
+[2019-06-10 13:37:36] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:37:36] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:37] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:37:37] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:37] [Info] Connect www.facebook.com:443
+[2019-06-10 13:37:37] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:37:37] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:37:38] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:38] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:38] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:38] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:39] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:40] [Info] Connect www.evernote.com:443
+[2019-06-10 13:37:40] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:40] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:41] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:37:41] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:41] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:37:42] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:42] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:42] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:37:42] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:37:42] [Info] Connect t.co:443
+[2019-06-10 13:37:44] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:44] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:45] [Info] Connect www.evernote.com:443
+[2019-06-10 13:37:45] [Info] Connect api.segment.io:443
+[2019-06-10 13:37:46] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:47] [Info] Connect t.castle.io:443
+[2019-06-10 13:37:47] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:37:49] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:37:50] [Info] Connect www.evernote.com:443
+[2019-06-10 13:37:51] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:37:51] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:37:52] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:37:53] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:37:57] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:37:57] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:37:57] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:58] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:37:58] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:37:58] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:37:58] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:37:58] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-10 13:37:59] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:38:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:38:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:14] [Info] Disconnect adservice.google.com:443
+[2019-06-10 13:38:14] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 13:38:20] [Info] Disconnect avatars1.githubusercontent.com:443
+[2019-06-10 13:38:20] [Info] Disconnect camo.githubusercontent.com:443
+[2019-06-10 13:38:22] [Info] Disconnect avatars2.githubusercontent.com:443
+[2019-06-10 13:38:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:22] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:38:30] [Info] Disconnect www.google.com:443
+[2019-06-10 13:38:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:35] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:38:38] [Info] Disconnect m.stripe.com:443
+[2019-06-10 13:38:40] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:38:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:42] [Info] Disconnect www.facebook.com:443
+[2019-06-10 13:38:43] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:38:44] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:38:44] [Info] Disconnect ssr.tools:443
+[2019-06-10 13:38:44] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:38:46] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:38:46] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:38:48] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:38:52] [Info] Connect mail.163.com:443
+[2019-06-10 13:38:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:38:52] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 13:38:53] [Info] Connect mail.163.com:443
+[2019-06-10 13:38:53] [Info] Connect mimg.127.net:443
+[2019-06-10 13:38:54] [Info] Direct connect impservice-mail.youdao.com:443
+[2019-06-10 13:38:54] [Info] Direct connect gorgon.youdao.com:443
+[2019-06-10 13:38:54] [Info] Direct connect sr.mail.163.com:443
+[2019-06-10 13:38:55] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:38:55] [Info] Connect res.126.net:443
+[2019-06-10 13:38:55] [Info] Connect oimagea6.ydstatic.com:443
+[2019-06-10 13:38:55] [Info] Connect oimagea6.ydstatic.com:443
+[2019-06-10 13:38:55] [Info] Direct connect yex.youdao.com:443
+[2019-06-10 13:38:55] [Info] Direct connect log-yex.youdao.com:443
+[2019-06-10 13:39:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:04] [Info] Disconnect stats.g.doubleclick.net:443
+[2019-06-10 13:39:04] [Info] Disconnect www.google.com:443
+[2019-06-10 13:39:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:39:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:14] [Info] Disconnect www.evernote.com:443
+[2019-06-10 13:39:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:23] [Error] System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 103.86.88.8:80
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-10 13:39:24] [Info] Disconnect mimg.127.net:443
+[2019-06-10 13:39:25] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:39:25] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:39:25] [Info] Disconnect res.126.net:443
+[2019-06-10 13:39:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:34] [Info] Disconnect www.gravatar.com:443
+[2019-06-10 13:39:34] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:39:36] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:39:38] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 13:39:42] [Info] Disconnect analytics.twitter.com:443
+[2019-06-10 13:39:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:44] [Info] Disconnect t.co:443
+[2019-06-10 13:39:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:39:55] [Info] Disconnect oimagea6.ydstatic.com:443
+[2019-06-10 13:39:55] [Info] Disconnect oimagea6.ydstatic.com:443
+[2019-06-10 13:39:58] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:40:00] [Info] Disconnect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:40:00] [Info] Connect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:40:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:16] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:40:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:40:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:25] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 13:40:29] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:40:29] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:40:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:40:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:47] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:40:49] [Info] Connect ssr.tools:443
+[2019-06-10 13:40:50] [Info] Connect ssr.tools:443
+[2019-06-10 13:40:50] [Info] Connect ssr.tools:443
+[2019-06-10 13:40:50] [Info] Connect ssr.tools:443
+[2019-06-10 13:40:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:40:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:40:55] [Info] Connect ssr.tools:443
+[2019-06-10 13:41:00] [Info] Connect ssr.tools:443
+[2019-06-10 13:41:02] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:41:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:08] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:41:08] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:41:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:41:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 13:41:10] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:41:10] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:41:10] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:41:11] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:41:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:41:18] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:23] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:34] [Info] Connect www.google.com:443
+[2019-06-10 13:41:34] [Info] Disconnect ssr.tools:443
+[2019-06-10 13:41:34] [Info] Disconnect ssr.tools:443
+[2019-06-10 13:41:34] [Info] Disconnect ssr.tools:443
+[2019-06-10 13:41:34] [Info] Disconnect github.com:443
+[2019-06-10 13:41:34] [Info] Connect www.google.com:443
+[2019-06-10 13:41:35] [Info] Connect fonts.gstatic.com:443
+[2019-06-10 13:41:36] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:41:36] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:41:36] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:41:36] [Info] Connect apis.google.com:443
+[2019-06-10 13:41:37] [Info] Connect adservice.google.com:443
+[2019-06-10 13:41:37] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:41:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:41:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:41:40] [Info] Connect fonts.gstatic.com:443
+[2019-06-10 13:41:41] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:41:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:42] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:41:44] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:44] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:46] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:41:47] [Info] Connect api.webtest.net:443
+[2019-06-10 13:41:47] [Info] Disconnect ssl.gstatic.com:443
+[2019-06-10 13:41:47] [Info] Disconnect apis.google.com:443
+[2019-06-10 13:41:47] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:41:47] [Info] Disconnect www.gstatic.com:443
+[2019-06-10 13:41:49] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:49] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:49] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:41:49] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 13:41:49] [Info] Connect api.webtest.net:443
+[2019-06-10 13:41:52] [Info] Connect api.webtest.net:443
+[2019-06-10 13:41:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:41:52] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:41:53] [Info] Disconnect cuscochromeextension-pa.googleapis.com:443
+[2019-06-10 13:41:54] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:41:54] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:41:57] [Info] Connect clients4.google.com:443
+[2019-06-10 13:41:57] [Info] Disconnect clients4.google.com:443
+[2019-06-10 13:41:57] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-10 13:41:57] [Info] Disconnect fonts.gstatic.com:443
+[2019-06-10 13:41:57] [Info] Connect api.webtest.net:443
+[2019-06-10 13:41:59] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:42:01] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-10 13:42:01] [Info] Disconnect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:42:02] [Info] Connect clients4.google.com:443
+[2019-06-10 13:42:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:42:05] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 13:42:06] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-10 13:42:09] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:42:11] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-10 13:42:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:13] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-10 13:42:18] [Info] Connect cuscochromeextension-pa.googleapis.com:443
+[2019-06-10 13:42:18] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-10 13:42:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:26] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:42:27] [Info] Connect www.speedtest.net:443
+[2019-06-10 13:42:27] [Info] Connect easylinkweb.net:80
+[2019-06-10 13:42:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:42:28] [Info] Disconnect easylinkweb.net:80
+[2019-06-10 13:42:28] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:28] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:30] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:30] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:30] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:30] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:30] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:42:31] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:42:32] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:42:32] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:32] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:32] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:32] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:32] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:32] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:32] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:42:32] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:32] [Info] Connect www.speedtest.net:443
+[2019-06-10 13:42:33] [Info] Connect api.webtest.net:443
+[2019-06-10 13:42:37] [Info] Connect raw.githubusercontent.com:443
+[2019-06-10 13:42:37] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:37] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:37] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:42] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-10 13:42:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:42] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:42:47] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:42:50] [Info] Connect www.evernote.com:443
+[2019-06-10 13:42:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:42:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:42:55] [Info] Disconnect ssr.tools:443
+[2019-06-10 13:43:02] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:43:02] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:43:02] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:43:02] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:43:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:43:04] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-10 13:43:04] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:43:04] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:10] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:10] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:43:12] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:43:12] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:12] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:13] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:43:14] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:43:14] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:15] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:43:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:43:17] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:43:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:43:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:43:37] [Info] Disconnect adservice.google.com:443
+[2019-06-10 13:43:37] [Info] Disconnect www.google.com:443
+[2019-06-10 13:43:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:43:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:43:43] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 13:43:49] [Info] Disconnect www.google.com:443
+[2019-06-10 13:43:52] [Info] Connect hm.baidu.com:443
+[2019-06-10 13:43:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:02] [Info] Disconnect hm.baidu.com:443
+[2019-06-10 13:44:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:44:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:44:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:14] [Info] Connect mail.163.com:443
+[2019-06-10 13:44:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:27] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-10 13:44:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:44:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:33] [Info] Disconnect www.speedtest.net:443
+[2019-06-10 13:44:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:44:44] [Info] Disconnect www.evernote.com:443
+[2019-06-10 13:44:44] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:44:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:44:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:04] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 13:45:04] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 13:45:04] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:45:04] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:05] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:45:09] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:11] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:45:11] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:11] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:45:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:45:16] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:17] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:45:17] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:17] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:45:18] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:45:18] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:19] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:45:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:23] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:45:25] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:45:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:45:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:45:43] [Info] Disconnect cuscochromeextension-pa.googleapis.com:443
+[2019-06-10 13:45:46] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:45:46] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:45:46] [Info] Connect 91.108.56.101:80
+[2019-06-10 13:45:46] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:45:46] [Info] Disconnect 91.108.56.101:443
+[2019-06-10 13:45:46] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:45:46] [Info] Disconnect 91.108.56.101:80
+[2019-06-10 13:45:49] [Info] Disconnect clients4.google.com:443
+[2019-06-10 13:45:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:01] [Info] Disconnect 91.108.56.140:443
+[2019-06-10 13:46:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:02] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:46:02] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:03] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:46:05] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:46:05] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:05] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:07] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:46:07] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:07] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:46:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 13:46:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:46:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:40] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:46:40] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:46:42] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:46:42] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:46:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:46:43] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:46:43] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:46:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:46:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:47:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:47:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:30] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:47:30] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:47:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:47:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:47:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:47] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-06-10 13:47:51] [Info] Connect www.evernote.com:443
+[2019-06-10 13:47:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:47:53] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-06-10 13:47:53] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-06-10 13:47:56] [Info] Connect www.evernote.com:443
+[2019-06-10 13:48:00] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:48:02] [Info] Connect www.evernote.com:443
+[2019-06-10 13:48:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:48:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:48:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:48:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:48:59] [Info] Connect clients4.google.com:443
+[2019-06-10 13:48:59] [Info] Connect darkchrome.net:443
+[2019-06-10 13:49:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:49:07] [Info] Connect 149.154.175.50:443
+[2019-06-10 13:49:07] [Info] Connect 149.154.175.50:80
+[2019-06-10 13:49:08] [Info] Connect 149.154.175.50:443
+[2019-06-10 13:49:08] [Info] Connect 149.154.175.50:80
+[2019-06-10 13:49:08] [Info] Disconnect 149.154.175.50:443
+[2019-06-10 13:49:08] [Info] Disconnect 149.154.175.50:80
+[2019-06-10 13:49:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:49:13] [Info] Connect 149.154.175.50:80
+[2019-06-10 13:49:13] [Info] Disconnect 149.154.175.50:80
+[2019-06-10 13:49:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:49:18] [Info] Connect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:49:20] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:49:21] [Info] Connect api.segment.io:443
+[2019-06-10 13:49:22] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:49:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:49:23] [Info] Connect t.castle.io:443
+[2019-06-10 13:49:24] [Info] Connect t.castle.io:443
+[2019-06-10 13:49:24] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:49:24] [Info] Connect clients1.google.com:443
+[2019-06-10 13:49:24] [Info] Connect stats.g.doubleclick.net:443
+[2019-06-10 13:49:24] [Info] Disconnect 149.154.175.50:443
+[2019-06-10 13:49:24] [Info] Connect t.castle.io:443
+[2019-06-10 13:49:24] [Info] Connect www.google.com:443
+[2019-06-10 13:49:27] [Info] Connect m.stripe.com:443
+[2019-06-10 13:49:28] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:49:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:49:33] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:49:33] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:49:33] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:49:33] [Info] Connect www.facebook.com:443
+[2019-06-10 13:49:34] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:49:34] [Info] Connect www.google.com.hk:443
+[2019-06-10 13:49:34] [Info] Disconnect www.google.com.hk:443
+[2019-06-10 13:49:37] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:49:38] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:49:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:49:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:49:44] [Info] Connect analytics.twitter.com:443
+[2019-06-10 13:49:44] [Info] Connect t.co:443
+[2019-06-10 13:49:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:03] [Info] Disconnect www.evernote.com:443
+[2019-06-10 13:50:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:50:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:50:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:14] [Info] Connect mail.163.com:443
+[2019-06-10 13:50:17] [Info] Connect www.google.com:443
+[2019-06-10 13:50:17] [Info] Connect www.google.com:443
+[2019-06-10 13:50:17] [Info] Connect www.google.com:443
+[2019-06-10 13:50:18] [Info] Connect www.google.com:443
+[2019-06-10 13:50:18] [Info] Connect www.google.com:443
+[2019-06-10 13:50:18] [Info] Connect fonts.gstatic.com:443
+[2019-06-10 13:50:21] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:50:21] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:50:21] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:22] [Info] Connect adservice.google.com:443
+[2019-06-10 13:50:22] [Info] Connect api.webtest.net:443
+[2019-06-10 13:50:22] [Info] Connect clients5.google.com:443
+[2019-06-10 13:50:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:22] [Info] Connect www.google.com:443
+[2019-06-10 13:50:23] [Info] Connect fonts.gstatic.com:443
+[2019-06-10 13:50:24] [Info] Connect www.googleadservices.com:443
+[2019-06-10 13:50:26] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:50:27] [Info] Connect adservice.google.com:443
+[2019-06-10 13:50:27] [Info] Connect clients5.google.com:443
+[2019-06-10 13:50:27] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:50:27] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:50:28] [Info] Disconnect www.google.com:443
+[2019-06-10 13:50:29] [Info] Connect fonts.gstatic.com:443
+[2019-06-10 13:50:29] [Info] Disconnect www.google.com:443
+[2019-06-10 13:50:31] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:50:31] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:50:31] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:31] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-10 13:50:31] [Info] Disconnect ssl.gstatic.com:443
+[2019-06-10 13:50:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:32] [Info] Connect clients5.google.com:443
+[2019-06-10 13:50:32] [Info] Connect clients5.google.com:443
+[2019-06-10 13:50:32] [Info] Connect csi.gstatic.com:443
+[2019-06-10 13:50:33] [Info] Disconnect www.google.com:443
+[2019-06-10 13:50:34] [Info] Disconnect fonts.gstatic.com:443
+[2019-06-10 13:50:36] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:50:36] [Info] Connect lh3.googleusercontent.com:443
+[2019-06-10 13:50:37] [Info] Disconnect clients5.google.com:443
+[2019-06-10 13:50:39] [Info] Disconnect www.facebook.com:443
+[2019-06-10 13:50:42] [Info] Connect ssl.gstatic.com:443
+[2019-06-10 13:50:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:44] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:50:44] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:50:45] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:50:45] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:45] [Info] Disconnect www.gstatic.com:443
+[2019-06-10 13:50:46] [Info] Connect safebrowsing.googleapis.com:443
+[2019-06-10 13:50:47] [Info] Disconnect ssl.gstatic.com:443
+[2019-06-10 13:50:48] [Info] Disconnect m.stripe.com:443
+[2019-06-10 13:50:50] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:50] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:50:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:50:53] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-10 13:50:55] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:50:55] [Info] Connect www.gstatic.com:443
+[2019-06-10 13:50:58] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-10 13:51:01] [Info] Disconnect darkchrome.net:443
+[2019-06-10 13:51:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:04] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-10 13:51:04] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-10 13:51:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 13:51:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:13] [Info] Direct connect blog.csdn.net:443
+[2019-06-10 13:51:13] [Info] Direct connect blog.csdn.net:443
+[2019-06-10 13:51:13] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:13] [Info] Direct connect pos.baidu.com:443
+[2019-06-10 13:51:13] [Info] Connect hm.baidu.com:443
+[2019-06-10 13:51:13] [Info] Direct connect show-f.mediav.com:443
+[2019-06-10 13:51:13] [Info] Connect csdnimg.cn:443
+[2019-06-10 13:51:13] [Info] Connect g.csdnimg.cn:443
+[2019-06-10 13:51:13] [Info] Direct connect rabc1.iteye.com:443
+[2019-06-10 13:51:13] [Info] Direct connect dup.baidustatic.com:443
+[2019-06-10 13:51:13] [Info] Direct connect gh.bdstatic.com:443
+[2019-06-10 13:51:13] [Info] Connect avatar.csdn.net:443
+[2019-06-10 13:51:13] [Info] Connect img-blog.csdnimg.cn:443
+[2019-06-10 13:51:13] [Info] Direct connect cpro.baidustatic.com:443
+[2019-06-10 13:51:13] [Info] Connect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:13] [Info] Direct connect img-ads.csdn.net:443
+[2019-06-10 13:51:13] [Info] Direct connect eclick.baidu.com:443
+[2019-06-10 13:51:13] [Info] Connect entry.baidu.com:443
+[2019-06-10 13:51:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-06-10 13:51:13] [Info] Disconnect www.gstatic.com:443
+[2019-06-10 13:51:13] [Info] Connect easylinkweb.net:80
+[2019-06-10 13:51:13] [Info] Direct connect pv.csdn.net:443
+[2019-06-10 13:51:13] [Info] Connect static.mediav.com:443
+[2019-06-10 13:51:13] [Info] Disconnect avatar.csdn.net:443
+[2019-06-10 13:51:14] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:14] [Info] Direct connect msg.csdn.net:443
+[2019-06-10 13:51:14] [Info] Connect kunpeng-sc.csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Direct connect msg.csdn.net:443
+[2019-06-10 13:51:14] [Info] Direct connect dup.baidustatic.com:443
+[2019-06-10 13:51:14] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:14] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:14] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:14] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2019-06-10 13:51:14] [Info] Connect avatar.csdn.net:443
+[2019-06-10 13:51:14] [Info] Disconnect entry.baidu.com:443
+[2019-06-10 13:51:14] [Info] Disconnect g.csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Direct connect gw.csdn.net:443
+[2019-06-10 13:51:14] [Info] Disconnect img-blog.csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Disconnect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:14] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:51:14] [Info] Disconnect clients4.google.com:443
+[2019-06-10 13:51:14] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 13:51:14] [Info] Disconnect adservice.google.com:443
+[2019-06-10 13:51:14] [Info] Disconnect www.google.com:443
+[2019-06-10 13:51:14] [Info] Disconnect www.google.com:443
+[2019-06-10 13:51:14] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 13:51:14] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:14] [Info] Disconnect github.githubassets.com:443
+[2019-06-10 13:51:14] [Info] Connect g.csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:51:14] [Info] Connect g.csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Disconnect github.githubassets.com:443
+[2019-06-10 13:51:14] [Info] Disconnect static.mediav.com:443
+[2019-06-10 13:51:14] [Info] Disconnect csdnimg.cn:443
+[2019-06-10 13:51:14] [Info] Disconnect secure.gravatar.com:443
+[2019-06-10 13:51:14] [Info] Disconnect www.googletagmanager.com:443
+[2019-06-10 13:51:14] [Info] Disconnect csi.gstatic.com:443
+[2019-06-10 13:51:14] [Info] Disconnect clients5.google.com:443
+[2019-06-10 13:51:14] [Info] Disconnect easylinkweb.net:80
+[2019-06-10 13:51:14] [Info] Direct connect gw.csdn.net:443
+[2019-06-10 13:51:14] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:51:14] [Info] Direct connect pos.baidu.com:443
+[2019-06-10 13:51:14] [Info] Connect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:51:14] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-10 13:51:14] [Info] Connect csdnimg.cn:443
+[2019-06-10 13:51:15] [Info] Direct connect kunpeng.csdn.net:443
+[2019-06-10 13:51:15] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:15] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:51:15] [Info] Connect adservice.google.com:443
+[2019-06-10 13:51:15] [Info] Direct connect wn.pos.baidu.com:443
+[2019-06-10 13:51:15] [Info] Connect t11.baidu.com:443
+[2019-06-10 13:51:15] [Info] Connect t11.baidu.com:443
+[2019-06-10 13:51:15] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-06-10 13:51:15] [Info] Connect clients1.google.com:443
+[2019-06-10 13:51:15] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-10 13:51:15] [Info] Connect f10.baidu.com:443
+[2019-06-10 13:51:15] [Info] Connect t12.baidu.com:443
+[2019-06-10 13:51:15] [Info] Direct connect img-ads.csdn.net:443
+[2019-06-10 13:51:15] [Info] Direct connect rabc1.iteye.com:443
+[2019-06-10 13:51:15] [Info] Connect www.google.com:443
+[2019-06-10 13:51:15] [Info] Connect www.googletagservices.com:443
+[2019-06-10 13:51:15] [Info] Direct connect cpro.baidustatic.com:443
+[2019-06-10 13:51:15] [Info] Direct connect show-f.mediav.com:443
+[2019-06-10 13:51:15] [Info] Direct connect show-f.mediav.com:443
+[2019-06-10 13:51:16] [Info] Direct connect recom-1252788780.cosbj.myqcloud.com:80
+[2019-06-10 13:51:16] [Info] Disconnect g.csdnimg.cn:443
+[2019-06-10 13:51:16] [Info] Direct connect re.csdn.net:443
+[2019-06-10 13:51:16] [Info] Direct connect eclick.baidu.com:443
+[2019-06-10 13:51:16] [Info] Direct connect pos.baidu.com:443
+[2019-06-10 13:51:16] [Info] Disconnect t11.baidu.com:443
+[2019-06-10 13:51:16] [Info] Connect www.gravatar.com:443
+[2019-06-10 13:51:16] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:51:16] [Info] Connect i.stack.imgur.com:443
+[2019-06-10 13:51:16] [Info] Connect gsp0.baidu.com:443
+[2019-06-10 13:51:16] [Info] Direct connect s.cpro.baidu.com:443
+[2019-06-10 13:51:16] [Info] Connect cdn.sstatic.net:443
+[2019-06-10 13:51:16] [Info] Connect stackoverflow.com:443
+[2019-06-10 13:51:16] [Info] Connect sb.scorecardresearch.com:443
+[2019-06-10 13:51:16] [Info] Connect pixel.quantserve.com:443
+[2019-06-10 13:51:17] [Info] Disconnect www.gravatar.com:443
+[2019-06-10 13:51:17] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:51:17] [Info] Disconnect csdnimg.cn:443
+[2019-06-10 13:51:17] [Info] Disconnect g.csdnimg.cn:443
+[2019-06-10 13:51:17] [Info] Disconnect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:17] [Info] Disconnect kunpeng-sc.csdnimg.cn:443
+[2019-06-10 13:51:17] [Info] Disconnect avatar.csdn.net:443
+[2019-06-10 13:51:17] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:17] [Info] Connect entry.baidu.com:443
+[2019-06-10 13:51:17] [Info] Connect rules.quantcount.com:443
+[2019-06-10 13:51:17] [Info] Disconnect f10.baidu.com:443
+[2019-06-10 13:51:17] [Info] Disconnect t12.baidu.com:443
+[2019-06-10 13:51:17] [Info] Disconnect t11.baidu.com:443
+[2019-06-10 13:51:17] [Info] Disconnect adservice.google.com:443
+[2019-06-10 13:51:17] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 13:51:17] [Info] Disconnect www.googletagservices.com:443
+[2019-06-10 13:51:17] [Info] Direct connect re.csdn.net:443
+[2019-06-10 13:51:17] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:51:17] [Info] Direct connect pos.baidu.com:443
+[2019-06-10 13:51:17] [Info] Connect g.csdnimg.cn:443
+[2019-06-10 13:51:17] [Info] Connect www.gravatar.com:443
+[2019-06-10 13:51:17] [Info] Connect csdnimg.cn:443
+[2019-06-10 13:51:17] [Info] Connect www.googletagservices.com:443
+[2019-06-10 13:51:17] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:51:18] [Info] Connect sb.scorecardresearch.com:443
+[2019-06-10 13:51:18] [Info] Connect pixel.quantserve.com:443
+[2019-06-10 13:51:18] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 13:51:18] [Info] Connect adservice.google.com:443
+[2019-06-10 13:51:18] [Info] Connect s3m.milkjpg.com:443
+[2019-06-10 13:51:18] [Info] Connect lh4.googleusercontent.com:443
+[2019-06-10 13:51:18] [Info] Connect lh5.googleusercontent.com:443
+[2019-06-10 13:51:18] [Info] Connect securepubads.g.doubleclick.net:443
+[2019-06-10 13:51:18] [Info] Connect api.webtest.net:443
+[2019-06-10 13:51:18] [Info] Connect hm.baidu.com:443
+[2019-06-10 13:51:18] [Info] Connect lh6.googleusercontent.com:443
+[2019-06-10 13:51:19] [Info] Connect cdn.scdng.com:443
+[2019-06-10 13:51:19] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Connect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:19] [Info] Connect z.moatads.com:443
+[2019-06-10 13:51:19] [Info] Connect c.betrad.com:443
+[2019-06-10 13:51:19] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Disconnect cdn.sstatic.net:443
+[2019-06-10 13:51:19] [Info] Disconnect entry.baidu.com:443
+[2019-06-10 13:51:19] [Info] Disconnect pixel.quantserve.com:443
+[2019-06-10 13:51:19] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Connect s0.2mdn.net:443
+[2019-06-10 13:51:19] [Info] Disconnect pixel.quantserve.com:443
+[2019-06-10 13:51:19] [Info] Disconnect sb.scorecardresearch.com:443
+[2019-06-10 13:51:19] [Info] Disconnect sb.scorecardresearch.com:443
+[2019-06-10 13:51:19] [Info] Connect fw.adsafeprotected.com:443
+[2019-06-10 13:51:19] [Info] Disconnect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:19] [Info] Disconnect www.google.com:443
+[2019-06-10 13:51:19] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Disconnect cdn.scdng.com:443
+[2019-06-10 13:51:19] [Info] Connect s0.2mdn.net:443
+[2019-06-10 13:51:19] [Info] Disconnect stackoverflow.com:443
+[2019-06-10 13:51:19] [Info] Disconnect lh4.googleusercontent.com:443
+[2019-06-10 13:51:19] [Info] Disconnect lh5.googleusercontent.com:443
+[2019-06-10 13:51:19] [Info] Disconnect g.csdnimg.cn:443
+[2019-06-10 13:51:19] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 13:51:19] [Info] Disconnect s3m.milkjpg.com:443
+[2019-06-10 13:51:19] [Info] Disconnect www.gravatar.com:443
+[2019-06-10 13:51:19] [Info] Disconnect i.stack.imgur.com:443
+[2019-06-10 13:51:19] [Info] Connect fw.adsafeprotected.com:443
+[2019-06-10 13:51:19] [Info] Disconnect www.googletagservices.com:443
+[2019-06-10 13:51:19] [Info] Disconnect adservice.google.com:443
+[2019-06-10 13:51:19] [Info] Disconnect rules.quantcount.com:443
+[2019-06-10 13:51:19] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:51:19] [Info] Disconnect securepubads.g.doubleclick.net:443
+[2019-06-10 13:51:19] [Info] Connect g.csdnimg.cn:443
+[2019-06-10 13:51:19] [Info] Disconnect lh6.googleusercontent.com:443
+[2019-06-10 13:51:19] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:51:19] [Info] Connect mb.moatads.com:443
+[2019-06-10 13:51:19] [Info] Connect mb.moatads.com:443
+[2019-06-10 13:51:19] [Info] Disconnect cloud-cdn-digitalocean-com.global.ssl.fastly.net:443
+[2019-06-10 13:51:20] [Info] Connect c.evidon.com:443
+[2019-06-10 13:51:20] [Info] Disconnect fw.adsafeprotected.com:443
+[2019-06-10 13:51:20] [Info] Connect sc.iasds01.com:443
+[2019-06-10 13:51:20] [Info] Connect pagead2.googlesyndication.com:443
+[2019-06-10 13:51:20] [Info] Connect l.betrad.com:443
+[2019-06-10 13:51:20] [Info] Connect l.betrad.com:443
+[2019-06-10 13:51:20] [Info] Connect l.betrad.com:443
+[2019-06-10 13:51:20] [Info] Connect bid.g.doubleclick.net:443
+[2019-06-10 13:51:20] [Info] Connect l.betrad.com:443
+[2019-06-10 13:51:20] [Info] Connect dt.adsafeprotected.com:443
+[2019-06-10 13:51:21] [Info] Connect dt.adsafeprotected.com:443
+[2019-06-10 13:51:21] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:21] [Debug] DNS query fail: analyticspixel.microsoft.com
+[2019-06-10 13:51:21] [Info] Connect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:21] [Info] Connect dt.adsafeprotected.com:443
+[2019-06-10 13:51:21] [Debug] DNS query fail: analyticspixel.microsoft.com
+[2019-06-10 13:51:21] [Info] Connect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:22] [Info] Direct connect blog.csdn.net:443
+[2019-06-10 13:51:22] [Info] Disconnect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:22] [Debug] DNS query fail: analyticspixel.microsoft.com
+[2019-06-10 13:51:22] [Info] Connect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:22] [Info] Disconnect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:23] [Info] Connect www.google.com:443
+[2019-06-10 13:51:23] [Info] Connect clc.stackoverflow.com:443
+[2019-06-10 13:51:23] [Info] Disconnect l.betrad.com:443
+[2019-06-10 13:51:23] [Info] Disconnect l.betrad.com:443
+[2019-06-10 13:51:23] [Info] Disconnect l.betrad.com:443
+[2019-06-10 13:51:23] [Info] Disconnect l.betrad.com:443
+[2019-06-10 13:51:23] [Info] Connect hm.baidu.com:443
+[2019-06-10 13:51:24] [Info] Connect clients4.google.com:443
+[2019-06-10 13:51:24] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:24] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:25] [Info] Disconnect stats.g.doubleclick.net:443
+[2019-06-10 13:51:26] [Info] Connect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:28] [Info] Direct connect zhannei-dm.csdn.net:443
+[2019-06-10 13:51:28] [Info] Disconnect c.betrad.com:443
+[2019-06-10 13:51:29] [Info] Disconnect hm.baidu.com:443
+[2019-06-10 13:51:29] [Info] Connect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:31] [Info] Connect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:32] [Info] Disconnect dt.adsafeprotected.com:443
+[2019-06-10 13:51:33] [Info] Disconnect dt.adsafeprotected.com:443
+[2019-06-10 13:51:34] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:51:34] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 13:51:34] [Info] Disconnect www.google.com:443
+[2019-06-10 13:51:34] [Info] Disconnect dt.adsafeprotected.com:443
+[2019-06-10 13:51:36] [Info] Disconnect www.google.com.hk:443
+[2019-06-10 13:51:36] [Info] Disconnect analyticspixel.microsoft.com:443
+[2019-06-10 13:51:37] [Error] System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 220.181.163.84:443
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-06-10 13:51:37] [Info] Direct connect pos.baidu.com:443
+[2019-06-10 13:51:37] [Info] Connect api.webtest.net:443
+[2019-06-10 13:51:38] [Info] Direct connect dup.baidustatic.com:443
+[2019-06-10 13:51:38] [Info] Disconnect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:38] [Info] Disconnect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:38] [Info] Disconnect s0.2mdn.net:443
+[2019-06-10 13:51:38] [Info] Connect clients1.google.com:443
+[2019-06-10 13:51:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:51:41] [Info] Direct connect eclick.baidu.com:443
+[2019-06-10 13:51:41] [Info] Disconnect googleads4.g.doubleclick.net:443
+[2019-06-10 13:51:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:44] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:51:44] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:51:44] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:51:44] [Info] Disconnect analytics.twitter.com:443
+[2019-06-10 13:51:44] [Info] Disconnect t.co:443
+[2019-06-10 13:51:49] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-10 13:51:50] [Info] Direct connect tc.dl.pinyin.sogoucdn.com:80
+[2019-06-10 13:51:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:51:58] [Info] Disconnect gsp0.baidu.com:443
+[2019-06-10 13:52:01] [Info] Disconnect c.evidon.com:443
+[2019-06-10 13:52:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:52:08] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-06-10 13:52:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:12] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:12] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:13] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:13] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:14] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:15] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:19] [Info] Disconnect api.webtest.net:443
+[2019-06-10 13:52:20] [Info] Disconnect sc.iasds01.com:443
+[2019-06-10 13:52:21] [Info] Disconnect fw.adsafeprotected.com:443
+[2019-06-10 13:52:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:25] [Info] Disconnect mb.moatads.com:443
+[2019-06-10 13:52:25] [Info] Disconnect mb.moatads.com:443
+[2019-06-10 13:52:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:52:28] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 13:52:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:33] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:33] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:35] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:35] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:35] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:35] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:36] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:38] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:38] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:38] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:38] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:38] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:39] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:52:39] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:52:39] [Info] Connect api.segment.io:443
+[2019-06-10 13:52:39] [Info] Connect t.castle.io:443
+[2019-06-10 13:52:39] [Info] Connect www.google-analytics.com:443
+[2019-06-10 13:52:39] [Info] Connect t.castle.io:443
+[2019-06-10 13:52:39] [Info] Connect stats.g.doubleclick.net:443
+[2019-06-10 13:52:40] [Info] Connect www.google.com:443
+[2019-06-10 13:52:40] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:40] [Info] Connect www.google.com.hk:443
+[2019-06-10 13:52:40] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:52:40] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:40] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:52:40] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:52:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:42] [Info] Connect m.stripe.com:443
+[2019-06-10 13:52:45] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 13:52:45] [Info] Connect mail.163.com:443
+[2019-06-10 13:52:46] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:52:47] [Info] Connect mail.163.com:443
+[2019-06-10 13:52:47] [Info] Connect mail.163.com:443
+[2019-06-10 13:52:47] [Info] Connect mail.163.com:443
+[2019-06-10 13:52:47] [Info] Direct connect impservice-mail.youdao.com:443
+[2019-06-10 13:52:47] [Info] Connect res.126.net:443
+[2019-06-10 13:52:47] [Info] Direct connect gorgon.youdao.com:443
+[2019-06-10 13:52:47] [Info] Direct connect sr.mail.163.com:443
+[2019-06-10 13:52:48] [Info] Connect m.stripe.com:443
+[2019-06-10 13:52:48] [Info] Connect oimageb2.ydstatic.com:443
+[2019-06-10 13:52:48] [Info] Connect oimageb2.ydstatic.com:443
+[2019-06-10 13:52:49] [Info] Direct connect log-yex.youdao.com:443
+[2019-06-10 13:52:49] [Info] Direct connect yex.youdao.com:443
+[2019-06-10 13:52:50] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:52:51] [Info] Connect bam.nr-data.net:443
+[2019-06-10 13:52:51] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:52:51] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:52:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:52:53] [Info] Connect m.stripe.com:443
+[2019-06-10 13:52:56] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 13:53:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:03] [Info] Connect www.evernote.com:443
+[2019-06-10 13:53:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:53:17] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:53:17] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:53:17] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:53:18] [Info] Disconnect res.126.net:443
+[2019-06-10 13:53:20] [Info] Disconnect g.csdnimg.cn:443
+[2019-06-10 13:53:20] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-06-10 13:53:20] [Info] Disconnect z.moatads.com:443
+[2019-06-10 13:53:20] [Info] Disconnect bid.g.doubleclick.net:443
+[2019-06-10 13:53:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:22] [Info] Disconnect s0.2mdn.net:443
+[2019-06-10 13:53:22] [Info] Disconnect googleads4.g.doubleclick.net:443
+[2019-06-10 13:53:24] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 13:53:24] [Info] Disconnect www.google.com:443
+[2019-06-10 13:53:24] [Info] Disconnect clc.stackoverflow.com:443
+[2019-06-10 13:53:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:34] [Info] Connect safebrowsing.googleapis.com:443
+[2019-06-10 13:53:38] [Info] Disconnect csdnimg.cn:443
+[2019-06-10 13:53:38] [Info] Disconnect clients1.google.com:443
+[2019-06-10 13:53:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:53:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:53:40] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:53:40] [Info] Disconnect pagead2.googlesyndication.com:443
+[2019-06-10 13:53:40] [Info] Disconnect t.castle.io:443
+[2019-06-10 13:53:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:48] [Info] Disconnect oimageb2.ydstatic.com:443
+[2019-06-10 13:53:49] [Info] Disconnect oimageb2.ydstatic.com:443
+[2019-06-10 13:53:50] [Info] Disconnect clients4.google.com:443
+[2019-06-10 13:53:51] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:53:52] [Info] Connect hm.baidu.com:443
+[2019-06-10 13:53:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:53:54] [Info] Disconnect m.stripe.com:443
+[2019-06-10 13:53:55] [Info] Disconnect api.segment.io:443
+[2019-06-10 13:54:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:54:02] [Info] Disconnect hm.baidu.com:443
+[2019-06-10 13:54:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:54:07] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:54:07] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:08] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:10] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:54:10] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:10] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:54:12] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:54:12] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:13] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:54:20] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:54:21] [Info] Connect cdn2.ime.sogou.com:80
+[2019-06-10 13:54:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:54:22] [Info] Disconnect cdn2.ime.sogou.com:80
+[2019-06-10 13:54:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:54:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:54:40] [Info] Disconnect stats.g.doubleclick.net:443
+[2019-06-10 13:54:40] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 13:54:40] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 13:54:40] [Info] Disconnect www.google.com:443
+[2019-06-10 13:54:40] [Info] Disconnect www.google.com.hk:443
+[2019-06-10 13:54:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:54:50] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:54:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:05] [Info] Disconnect www.evernote.com:443
+[2019-06-10 13:55:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:55:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:23] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 13:55:31] [Info] Connect 91.108.56.101:443
+[2019-06-10 13:55:31] [Info] Connect 91.108.56.140:443
+[2019-06-10 13:55:31] [Info] Connect 91.108.56.140:80
+[2019-06-10 13:55:31] [Info] Connect 91.108.56.101:80
+[2019-06-10 13:55:31] [Info] Disconnect 91.108.56.140:80
+[2019-06-10 13:55:31] [Info] Disconnect 91.108.56.140:443
+[2019-06-10 13:55:31] [Info] Disconnect 91.108.56.101:80
+[2019-06-10 13:55:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:35] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-06-10 13:55:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:55:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:55:46] [Info] Disconnect 91.108.56.101:443
+[2019-06-10 13:55:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:56:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:56:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 13:56:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:56:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:56:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:50] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:56:51] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:56:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:56:52] [Info] Direct connect cdn1.ime.sogou.com:80
+[2019-06-10 13:57:01] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-10 13:57:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:57:05] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-10 13:57:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:57:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:57:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:57:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:57:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:57:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:57:44] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:57:44] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:57:46] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 13:57:46] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 13:57:46] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:57:47] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 13:57:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:58:05] [Info] Connect www.evernote.com:443
+[2019-06-10 13:58:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:21] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:58:21] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:22] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 13:58:22] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:24] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:58:24] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:24] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:26] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 13:58:26] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:26] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 13:58:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:58:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:58:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:58:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:09] [Info] Connect mail.163.com:443
+[2019-06-10 13:59:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:59:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:22] [Info] Connect az764295.vo.msecnd.net:443
+[2019-06-10 13:59:24] [Info] Disconnect www.evernote.com:443
+[2019-06-10 13:59:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 13:59:40] [Info] Disconnect mail.163.com:443
+[2019-06-10 13:59:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 13:59:53] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:00:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:00:03] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:00:03] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:00:04] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:00:04] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:00:05] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:00:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:00:10] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:00:11] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:00:11] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:00:11] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:00:12] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:00:12] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:00:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:00:13] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:00:13] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:00:13] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:00:14] [Info] Connect cdn2.ime.sogou.com:80
+[2019-06-10 14:00:15] [Info] Disconnect cdn2.ime.sogou.com:80
+[2019-06-10 14:00:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:00:29] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:00:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:00:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:00:42] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:00:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:01] [Info] Connect clients4.google.com:443
+[2019-06-10 14:01:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:01:06] [Info] Connect ip:80
+[2019-06-10 14:01:06] [Info] Connect www.google.com:443
+[2019-06-10 14:01:07] [Info] Disconnect ip:80
+[2019-06-10 14:01:07] [Info] Connect id.google.com:443
+[2019-06-10 14:01:07] [Info] Connect adservice.google.com:443
+[2019-06-10 14:01:08] [Info] Connect clients1.google.com:443
+[2019-06-10 14:01:08] [Info] Connect adservice.google.com.hk:443
+[2019-06-10 14:01:08] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 14:01:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 14:01:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:01:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:24] [Info] Disconnect az764295.vo.msecnd.net:443
+[2019-06-10 14:01:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:37] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:01:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:01:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:01] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:02:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:04] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:02:04] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:02:09] [Info] Connect mail.163.com:443
+[2019-06-10 14:02:11] [Info] Connect 149.154.164.250:443
+[2019-06-10 14:02:11] [Info] Connect 149.154.164.250:80
+[2019-06-10 14:02:12] [Info] Connect 149.154.164.250:443
+[2019-06-10 14:02:12] [Info] Connect 149.154.164.250:80
+[2019-06-10 14:02:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:12] [Info] Connect 149.154.164.250:443
+[2019-06-10 14:02:12] [Info] Connect 149.154.164.250:80
+[2019-06-10 14:02:12] [Info] Disconnect 149.154.164.250:443
+[2019-06-10 14:02:12] [Info] Disconnect 149.154.164.250:80
+[2019-06-10 14:02:13] [Info] Disconnect 149.154.164.250:80
+[2019-06-10 14:02:13] [Info] Disconnect 149.154.164.250:80
+[2019-06-10 14:02:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:02:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:02:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:02:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:50] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:02:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:02:59] [Info] Disconnect 149.154.164.250:443
+[2019-06-10 14:02:59] [Info] Disconnect 149.154.164.250:443
+[2019-06-10 14:03:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:03] [Info] Disconnect clients4.google.com:443
+[2019-06-10 14:03:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:03:07] [Info] Disconnect id.google.com:443
+[2019-06-10 14:03:07] [Info] Connect www.evernote.com:443
+[2019-06-10 14:03:09] [Info] Disconnect adservice.google.com:443
+[2019-06-10 14:03:09] [Info] Disconnect clients1.google.com:443
+[2019-06-10 14:03:09] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 14:03:09] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-10 14:03:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:16] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:03:16] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:03:17] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:03:17] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:03:18] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:03:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:03:18] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:03:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:29] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:03:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:40] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:03:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:03:52] [Info] Connect hm.baidu.com:443
+[2019-06-10 14:03:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:03:59] [Info] Disconnect www.google.com:443
+[2019-06-10 14:04:00] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:04:01] [Info] Connect darkchrome.net:443
+[2019-06-10 14:04:02] [Info] Connect clients4.google.com:443
+[2019-06-10 14:04:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:02] [Info] Disconnect hm.baidu.com:443
+[2019-06-10 14:04:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:04:04] [Info] Connect s3m.milkjpg.com:443
+[2019-06-10 14:04:04] [Info] Connect s3m.mediav.com:443
+[2019-06-10 14:04:04] [Info] Connect s3m.mediav.com:443
+[2019-06-10 14:04:04] [Info] Connect s3m.mediav.com:443
+[2019-06-10 14:04:04] [Info] Connect s3m.mediav.com:443
+[2019-06-10 14:04:05] [Info] Disconnect s3m.mediav.com:443
+[2019-06-10 14:04:05] [Info] Disconnect s3m.mediav.com:443
+[2019-06-10 14:04:05] [Info] Disconnect s3m.mediav.com:443
+[2019-06-10 14:04:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:04:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:24] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:04:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:35] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:04:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:46] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:04:47] [Info] Connect clientservices.googleapis.com:443
+[2019-06-10 14:04:49] [Info] Direct connect qbwup.imtt.qq.com:80
+[2019-06-10 14:04:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:04:54] [Info] Disconnect www.evernote.com:443
+[2019-06-10 14:04:57] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:05:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:05:09] [Info] Connect mail.163.com:443
+[2019-06-10 14:05:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:05:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:30] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:05:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:35] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:05:35] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:05:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:05:41] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:05:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:05:52] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:02] [Info] Disconnect darkchrome.net:443
+[2019-06-10 14:06:02] [Info] Disconnect clients4.google.com:443
+[2019-06-10 14:06:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:04] [Info] Disconnect s3m.milkjpg.com:443
+[2019-06-10 14:06:06] [Info] Disconnect s3m.mediav.com:443
+[2019-06-10 14:06:09] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:06:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 14:06:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:12] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:06:13] [Info] Connect cdn2.ime.sogou.com:80
+[2019-06-10 14:06:14] [Info] Disconnect cdn2.ime.sogou.com:80
+[2019-06-10 14:06:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:25] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:27] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:06:27] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:27] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:29] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:06:29] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:29] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:32] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:06:32] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:32] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:06:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:36] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:39] [Info] Connect www.google.com:443
+[2019-06-10 14:06:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:47] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:06:48] [Info] Disconnect clientservices.googleapis.com:443
+[2019-06-10 14:06:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:06:58] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:07:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:07:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:20] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:07:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:31] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:07:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:36] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:07:36] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:07:37] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:07:37] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:07:38] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:07:38] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:07:38] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:07:38] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:07:39] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:07:39] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:07:40] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:07:40] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:07:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:42] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:07:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:07:53] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:07] [Info] Connect api.segment.io:443
+[2019-06-10 14:08:08] [Info] Connect www.evernote.com:443
+[2019-06-10 14:08:09] [Info] Connect mail.163.com:443
+[2019-06-10 14:08:10] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 14:08:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:13] [Info] Connect bam.nr-data.net:443
+[2019-06-10 14:08:13] [Info] Connect use.typekit.net:443
+[2019-06-10 14:08:13] [Info] Connect d2t77mnxyo7adj.cloudfront.net:443
+[2019-06-10 14:08:14] [Warn] Proxy server [(206.189.148.20)] connection refused
+[2019-06-10 14:08:15] [Info] Connect d2t77mnxyo7adj.cloudfront.net:443
+[2019-06-10 14:08:15] [Info] Connect t.castle.io:443
+[2019-06-10 14:08:15] [Info] Connect www.googletagmanager.com:443
+[2019-06-10 14:08:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:16] [Info] Connect cdn.optimizely.com:443
+[2019-06-10 14:08:16] [Info] Connect p.typekit.net:443
+[2019-06-10 14:08:16] [Info] Connect safebrowsing.googleapis.com:443
+[2019-06-10 14:08:16] [Info] Connect secure.gravatar.com:443
+[2019-06-10 14:08:16] [Info] Connect cdn.segment.com:443
+[2019-06-10 14:08:16] [Info] Connect clients1.google.com:443
+[2019-06-10 14:08:16] [Info] Connect js.stripe.com:443
+[2019-06-10 14:08:17] [Warn] Proxy server [(206.189.148.20)] connection refused
+[2019-06-10 14:08:17] [Info] Connect q.stripe.com:443
+[2019-06-10 14:08:17] [Info] Connect q.stripe.com:443
+[2019-06-10 14:08:17] [Info] Connect p.typekit.net:443
+[2019-06-10 14:08:17] [Info] Connect push.digitalocean.com:443
+[2019-06-10 14:08:17] [Info] Connect websites.cdn.getfeedback.com:443
+[2019-06-10 14:08:18] [Info] Connect t.castle.io:443
+[2019-06-10 14:08:18] [Info] Connect s2k7tnzlhrpw.statuspage.io:443
+[2019-06-10 14:08:18] [Info] Connect www.google-analytics.com:443
+[2019-06-10 14:08:18] [Info] Connect analytics.twitter.com:443
+[2019-06-10 14:08:18] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 14:08:18] [Info] Connect www.facebook.com:443
+[2019-06-10 14:08:18] [Info] Connect js-agent.newrelic.com:443
+[2019-06-10 14:08:19] [Warn] Proxy server [(206.189.148.20)] connection refused
+[2019-06-10 14:08:19] [Info] Connect hexagon-analytics.com:443
+[2019-06-10 14:08:19] [Info] Connect stats.g.doubleclick.net:443
+[2019-06-10 14:08:19] [Info] Connect m.stripe.network:443
+[2019-06-10 14:08:19] [Info] Connect www.google.com.hk:443
+[2019-06-10 14:08:19] [Info] Connect t.co:443
+[2019-06-10 14:08:19] [Info] Connect p.typekit.net:443
+[2019-06-10 14:08:19] [Warn] Proxy server [(206.189.148.20)] connection refused
+[2019-06-10 14:08:20] [Info] Connect s2k7tnzlhrpw.statuspage.io:443
+[2019-06-10 14:08:20] [Info] Connect m.stripe.com:443
+[2019-06-10 14:08:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:37] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:38] [Info] Disconnect q.stripe.com:443
+[2019-06-10 14:08:38] [Info] Disconnect p.typekit.net:443
+[2019-06-10 14:08:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:45] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:08:48] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:08:48] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:08:48] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:08:49] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:08:49] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:08:50] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:08:51] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:08:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:08:53] [Info] Connect clients4.google.com:443
+[2019-06-10 14:08:54] [Info] Disconnect use.typekit.net:443
+[2019-06-10 14:08:56] [Info] Disconnect cdn.optimizely.com:443
+[2019-06-10 14:08:59] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:20] [Info] Disconnect hexagon-analytics.com:443
+[2019-06-10 14:09:21] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:22] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:09:22] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:23] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:24] [Info] Disconnect www.facebook.com:443
+[2019-06-10 14:09:25] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:09:25] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:25] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:27] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:09:27] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:27] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:09:32] [Info] Disconnect t.castle.io:443
+[2019-06-10 14:09:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:47] [Info] Disconnect api.segment.io:443
+[2019-06-10 14:09:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:09:54] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:09:56] [Info] Disconnect t.castle.io:443
+[2019-06-10 14:09:56] [Info] Disconnect m.stripe.com:443
+[2019-06-10 14:10:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:05] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:10:10] [Info] Disconnect www.evernote.com:443
+[2019-06-10 14:10:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:16] [Info] Disconnect secure.gravatar.com:443
+[2019-06-10 14:10:16] [Info] Disconnect safebrowsing.googleapis.com:443
+[2019-06-10 14:10:16] [Info] Disconnect cdn.segment.com:443
+[2019-06-10 14:10:16] [Info] Disconnect www.googletagmanager.com:443
+[2019-06-10 14:10:16] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:10:18] [Info] Disconnect q.stripe.com:443
+[2019-06-10 14:10:18] [Info] Disconnect d2t77mnxyo7adj.cloudfront.net:443
+[2019-06-10 14:10:20] [Info] Disconnect analytics.twitter.com:443
+[2019-06-10 14:10:20] [Info] Disconnect js.stripe.com:443
+[2019-06-10 14:10:20] [Info] Disconnect www.google.com.hk:443
+[2019-06-10 14:10:20] [Info] Disconnect www.google.com:443
+[2019-06-10 14:10:20] [Info] Disconnect stats.g.doubleclick.net:443
+[2019-06-10 14:10:20] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 14:10:20] [Info] Disconnect websites.cdn.getfeedback.com:443
+[2019-06-10 14:10:20] [Info] Disconnect js-agent.newrelic.com:443
+[2019-06-10 14:10:20] [Info] Disconnect t.co:443
+[2019-06-10 14:10:22] [Info] Disconnect m.stripe.network:443
+[2019-06-10 14:10:22] [Info] Disconnect s2k7tnzlhrpw.statuspage.io:443
+[2019-06-10 14:10:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:27] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:10:32] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 14:10:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:38] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 14:10:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:10:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:49] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:10:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:10:54] [Info] Disconnect clients4.google.com:443
+[2019-06-10 14:10:55] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 14:10:56] [Info] Disconnect clients1.google.com:443
+[2019-06-10 14:11:00] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:11:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:03] [Info] Connect t.castle.io:443
+[2019-06-10 14:11:04] [Info] Connect bam.nr-data.net:443
+[2019-06-10 14:11:04] [Info] Connect clients1.google.com:443
+[2019-06-10 14:11:07] [Info] Connect m.stripe.com:443
+[2019-06-10 14:11:09] [Info] Connect mail.163.com:443
+[2019-06-10 14:11:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 14:11:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:11:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:17] [Info] Connect analytics.twitter.com:443
+[2019-06-10 14:11:17] [Info] Connect www.googleadservices.com:443
+[2019-06-10 14:11:17] [Info] Connect www.google-analytics.com:443
+[2019-06-10 14:11:17] [Info] Connect www.facebook.com:443
+[2019-06-10 14:11:17] [Info] Connect cloud.digitalocean.com:443
+[2019-06-10 14:11:17] [Info] Connect stats.g.doubleclick.net:443
+[2019-06-10 14:11:17] [Info] Connect googleads.g.doubleclick.net:443
+[2019-06-10 14:11:18] [Info] Connect t.co:443
+[2019-06-10 14:11:18] [Info] Connect www.google.com:443
+[2019-06-10 14:11:18] [Info] Connect www.google.com.hk:443
+[2019-06-10 14:11:19] [Info] Connect www.gravatar.com:443
+[2019-06-10 14:11:19] [Info] Connect api.segment.io:443
+[2019-06-10 14:11:20] [Info] Connect t.castle.io:443
+[2019-06-10 14:11:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:22] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:11:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:11:39] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:11:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:11:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:11:55] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:12:01] [Info] Connect v10.events.data.microsoft.com:443
+[2019-06-10 14:12:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:12:08] [Info] Disconnect v10.events.data.microsoft.com:443
+[2019-06-10 14:12:10] [Info] Connect scrootca1.ocsp.secomtrust.net:80
+[2019-06-10 14:12:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:13] [Info] Disconnect scrootca1.ocsp.secomtrust.net:80
+[2019-06-10 14:12:13] [Info] Connect scrootca2.ocsp.secomtrust.net:80
+[2019-06-10 14:12:14] [Info] Disconnect scrootca2.ocsp.secomtrust.net:80
+[2019-06-10 14:12:15] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:15] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:15] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Direct connect appconf.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Direct connect config.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Direct connect config.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-06-10 14:12:16] [Info] Direct connect goods.you.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect you.163.com:443
+[2019-06-10 14:12:16] [Info] Connect you.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect you.163.com:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Direct connect stat.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Direct connect ir.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Connect asia.smartscreen-prod.microsoft.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect you.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect you.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:16] [Info] Disconnect you.163.com:443
+[2019-06-10 14:12:16] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:16] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect nex.163.com:443
+[2019-06-10 14:12:17] [Info] Direct connect nex.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:17] [Info] Direct connect dc.ts.163.com:443
+[2019-06-10 14:12:17] [Info] Disconnect asia.smartscreen-prod.microsoft.com:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:17] [Info] Connect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect yanxuan.nosdn.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:17] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:17] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:12:17] [Info] Direct connect gorgon.youdao.com:443
+[2019-06-10 14:12:17] [Info] Connect yt-adp.ws.126.net:443
+[2019-06-10 14:12:18] [Info] Direct connect yex.youdao.com:443
+[2019-06-10 14:12:18] [Info] Direct connect log-yex.youdao.com:443
+[2019-06-10 14:12:18] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:18] [Info] Disconnect yt-adp.ws.126.net:443
+[2019-06-10 14:12:18] [Info] Connect yt-adp.ws.126.net:443
+[2019-06-10 14:12:18] [Info] Connect mail.163.com:443
+[2019-06-10 14:12:18] [Info] Direct connect impservice-mail.youdao.com:443
+[2019-06-10 14:12:18] [Info] Connect ocsp1.digicert.com:80
+[2019-06-10 14:12:18] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:18] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:19] [Info] Disconnect ocsp1.digicert.com:80
+[2019-06-10 14:12:19] [Info] Direct connect nex.163.com:443
+[2019-06-10 14:12:19] [Info] Direct connect sr.mail.163.com:443
+[2019-06-10 14:12:19] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:19] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:19] [Info] Direct connect irpmt.mail.163.com:443
+[2019-06-10 14:12:19] [Info] Connect nav.smartscreen.microsoft.com:443
+[2019-06-10 14:12:19] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:20] [Info] Connect music.163.com:443
+[2019-06-10 14:12:20] [Info] Disconnect nav.smartscreen.microsoft.com:443
+[2019-06-10 14:12:20] [Info] Connect acstatic-dun.126.net:443
+[2019-06-10 14:12:21] [Info] Connect s2.music.126.net:443
+[2019-06-10 14:12:21] [Info] Disconnect t.castle.io:443
+[2019-06-10 14:12:21] [Info] Connect ac.dun.163yun.com:443
+[2019-06-10 14:12:21] [Info] Disconnect s2.music.126.net:443
+[2019-06-10 14:12:21] [Info] Connect s2.music.126.net:443
+[2019-06-10 14:12:21] [Info] Disconnect m.stripe.com:443
+[2019-06-10 14:12:21] [Info] Disconnect t.castle.io:443
+[2019-06-10 14:12:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:23] [Info] Disconnect www.facebook.com:443
+[2019-06-10 14:12:23] [Info] Connect sp0.baidu.com:443
+[2019-06-10 14:12:24] [Info] Connect www.baidu.com:443
+[2019-06-10 14:12:28] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:12:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:34] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 14:12:34] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 14:12:34] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:12:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:47] [Info] Disconnect api.segment.io:443
+[2019-06-10 14:12:49] [Info] Connect secure.gravatar.com:443
+[2019-06-10 14:12:49] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:49] [Info] Disconnect yt-adp.ws.126.net:443
+[2019-06-10 14:12:49] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:12:50] [Info] Disconnect mimg.127.net:443
+[2019-06-10 14:12:51] [Info] Disconnect s2.music.126.net:443
+[2019-06-10 14:12:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:12:52] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:13:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:13:07] [Info] Disconnect ac.dun.163yun.com:443
+[2019-06-10 14:13:10] [Info] Connect www.evernote.com:443
+[2019-06-10 14:13:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:13:18] [Info] Disconnect analytics.twitter.com:443
+[2019-06-10 14:13:18] [Info] Disconnect stats.g.doubleclick.net:443
+[2019-06-10 14:13:18] [Info] Disconnect www.googleadservices.com:443
+[2019-06-10 14:13:18] [Info] Disconnect googleads.g.doubleclick.net:443
+[2019-06-10 14:13:18] [Info] Disconnect t.co:443
+[2019-06-10 14:13:18] [Info] Disconnect www.google.com:443
+[2019-06-10 14:13:18] [Info] Disconnect www.google.com.hk:443
+[2019-06-10 14:13:19] [Info] Disconnect www.gravatar.com:443
+[2019-06-10 14:13:20] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:13:21] [Info] Disconnect www.google-analytics.com:443
+[2019-06-10 14:13:22] [Info] Disconnect acstatic-dun.126.net:443
+[2019-06-10 14:13:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:13:24] [Info] Disconnect sp0.baidu.com:443
+[2019-06-10 14:13:24] [Info] Disconnect www.baidu.com:443
+[2019-06-10 14:13:27] [Info] Disconnect clients1.google.com:443
+[2019-06-10 14:13:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:13:33] [Info] Disconnect cloud.digitalocean.com:443
+[2019-06-10 14:13:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:13:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:13:51] [Info] Disconnect bam.nr-data.net:443
+[2019-06-10 14:13:52] [Info] Connect hm.baidu.com:443
+[2019-06-10 14:13:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:02] [Info] Disconnect hm.baidu.com:443
+[2019-06-10 14:14:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:07] [Info] Direct connect ledesoft.ddnsto.com:443
+[2019-06-10 14:14:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:20] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:14:20] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:14:21] [Info] Disconnect music.163.com:443
+[2019-06-10 14:14:22] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:14:22] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:14:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:22] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:14:23] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:14:29] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:46] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:14:50] [Info] Disconnect secure.gravatar.com:443
+[2019-06-10 14:14:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:14:58] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:02] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:15:02] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:15:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:03] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:15:03] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:15:04] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:15:05] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:15:10] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:15:10] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:15:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:11] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:15:11] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:15:12] [Info] Disconnect www.evernote.com:443
+[2019-06-10 14:15:12] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:15:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:12] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:15:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:15:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:23] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:30] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:47] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:15:47] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:15:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:15:56] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:16:02] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 14:16:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:16:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:16:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:16:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:16:48] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:48] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:16:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:14] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:17:14] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:17:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:28] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:17:28] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:28] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:30] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:30] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:17:30] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:31] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:33] [Debug] DNS query fail: nltc300.corp.tcc.inet
+[2019-06-10 14:17:33] [Info] Connect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:33] [Info] Disconnect nltc300.corp.tcc.inet:8530
+[2019-06-10 14:17:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:17:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:17:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:12] [Info] Connect www.evernote.com:443
+[2019-06-10 14:18:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:18:19] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:18:19] [Info] Direct connect cdn1.ime.sogou.com:80
+[2019-06-10 14:18:20] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:22] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:34] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:39] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:40] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:18:40] [Info] Connect tile-service.weather.microsoft.com:80
+[2019-06-10 14:18:41] [Info] Disconnect tile-service.weather.microsoft.com:80
+[2019-06-10 14:18:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:18:47] [Info] Disconnect mail.163.com:443
+[2019-06-10 14:18:49] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:18:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:00] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:19:01] [Info] Direct connect cdn1.ime.sogou.com:80
+[2019-06-10 14:19:01] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:02] [Info] Connect darkchrome.net:443
+[2019-06-10 14:19:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:02] [Info] Connect clients4.google.com:443
+[2019-06-10 14:19:04] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:20] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:31] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:34] [Info] Disconnect www.evernote.com:443
+[2019-06-10 14:19:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:50] [Info] Connect settings-win.data.microsoft.com:443
+[2019-06-10 14:19:50] [Info] Disconnect settings-win.data.microsoft.com:443
+[2019-06-10 14:19:51] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:52] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:19:52] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:19:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:19:56] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:19:57] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:19:58] [Debug] DNS query fail: mail.taylorcorp.com
+[2019-06-10 14:19:58] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:19:59] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:20:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:03] [Info] Connect mail.taylorcorp.com:443
+[2019-06-10 14:20:05] [Info] Disconnect mail.taylorcorp.com:443
+[2019-06-10 14:20:05] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:26] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:32] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:33] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:35] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:36] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:42] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:43] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:44] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:45] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:48] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:20:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:20:52] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:02] [Info] Disconnect clients4.google.com:443
+[2019-06-10 14:21:02] [Info] Disconnect darkchrome.net:443
+[2019-06-10 14:21:02] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:03] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:05] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:06] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:07] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:08] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect control-remotedl.onethingpcs.com:443
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:09] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:10] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:11] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:12] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:13] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:14] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:15] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:16] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:16] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:16] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:16] [Info] Connect mail.163.com:443
+[2019-06-10 14:21:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:18] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:19] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:21] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:22] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:30] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:32] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:35] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:35] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:35] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:35] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:35] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:36] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:36] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:36] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:38] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:41] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:41] [Info] Disconnect www.bing.com:443
+[2019-06-10 14:21:42] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:46] [Info] Disconnect www.bing.com:443
+[2019-06-10 14:21:46] [Info] Direct connect 192.168.1.1:80
+[2019-06-10 14:21:47] [Info] Disconnect www.bing.com:443
+[2019-06-10 14:21:47] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:48] [Info] Disconnect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect www.bing.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect otf.msn.com:443
+[2019-06-10 14:21:50] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:50] [Info] Connect www.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect sam.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect c.msn.com:443
+[2019-06-10 14:21:50] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:50] [Info] Connect www.msn.com:443
+[2019-06-10 14:21:50] [Info] Connect www.msn.com:443
+[2019-06-10 14:21:50] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:51] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 14:21:51] [Info] Direct connect ime.sogou.com:80
+[2019-06-10 14:21:51] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:51] [Info] Direct connect www.sogou.com:80
+[2019-06-10 14:21:51] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-06-10 14:21:52] [Info] Direct connect account.onethingpcs.com:80
+[2019-06-10 14:21:53] [Info] Disconnect sam.msn.com:443
+[2019-06-10 14:21:54] [Info] Direct connect 192.168.1.1:80
