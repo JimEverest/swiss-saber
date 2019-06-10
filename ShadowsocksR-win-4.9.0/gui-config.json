@@ -1,0 +1,75 @@
+{
+	"configs" : [
+		{
+			"remarks" : "",
+			"id" : "AE2404BAD1608921A49914211474D6EB",
+			"server" : "206.189.148.20",
+			"server_port" : 443,
+			"server_udp_port" : 0,
+			"password" : "Qwer1234",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "SGP",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "HK",
+			"id" : "F49B4F2074C4EE4B5CCBE550551D5001",
+			"server" : "hkt11.bilibilivpn.com",
+			"server_port" : 8434,
+			"server_udp_port" : 0,
+			"password" : "147369",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "http_simple",
+			"obfsparam" : "download.windowsupdate.com",
+			"remarks_base64" : "SEs",
+			"group" : "HK",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 1,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "AVc3nYY5EDkMj5yX7I0j",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"balanceAlgorithm" : "LowException",
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
